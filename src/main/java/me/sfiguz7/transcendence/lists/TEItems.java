@@ -30,7 +30,7 @@ public final class TEItems {
     /* Category */
     public static final Category transcendence = new Category(new NamespacedKey(TranscEndence.getInstance(),
         "transcendence"),
-        new CustomItem(Material.PURPUR_BLOCK, "&5TranscEndence(末地科技)")
+        new CustomItem(Material.PURPUR_BLOCK, "&5TranscEndence(末地科技")
     );
     /* Items */
     public static final SlimefunItemStack QUIRP_UP = new SlimefunItemStack("QUIRP_UP",
@@ -40,7 +40,7 @@ public final class TEItems {
     );
     public static final SlimefunItemStack QUIRP_DOWN = new SlimefunItemStack("QUIRP_DOWN",
         "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjlhMDMwY2EyYjJjNmZlNjdmZTgwOTdkM2NkMjA2OTY5ZmM1YzAwMTdjNjBiNmI0MDk5MGM3NzJhNmYwYWMwYSJ9fX0=",
-        "&a水平(Down)",
+        "&a水平粒子(Down)",
         "&9宇宙中的基本粒子"
     );
     public static final SlimefunItemStack QUIRP_LEFT = new SlimefunItemStack("QUIRP_LEFT",
@@ -50,7 +50,7 @@ public final class TEItems {
     );
     public static final SlimefunItemStack QUIRP_RIGHT = new SlimefunItemStack("QUIRP_RIGHT",
         "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY4NjkwNDhmMDZkMzE4ZTUwNThiY2EwYTg3NmE1OTg2MDc5ZjQ1YTc2NGQxMmFiMzRhNDkzMWRiNmI4MGFkYyJ9fX0=",
-        "&a垂直(Right)",
+        "&a垂直粒子(Right)",
         "&9宇宙中的基本粒子"
     );
     public static final SlimefunItemStack QUIRP_CONDENSATE = new SlimefunItemStack("QUIRPCONDENSATE",
@@ -68,7 +68,7 @@ public final class TEItems {
     );
     public static final SlimefunItemStack UNSTABLE_INGOT_2 = new SlimefunItemStack("UNSTABLEINGOT2",
         Material.NETHER_BRICK,
-        "&4Unstable Ingot 75%",
+        "&4不稳定的锭(75%)",
         "&9你将会死亡",
         "&9超过时间,物品将会消失.....",
         "",
@@ -76,7 +76,7 @@ public final class TEItems {
     );
     public static final SlimefunItemStack UNSTABLE_INGOT_3 = new SlimefunItemStack("UNSTABLEINGOT3",
         Material.NETHER_BRICK,
-        "&4Unstable Ingot 50%",
+        "&4不稳定的锭(50%)",
         "&9你将会死亡",
         "&9超过时间,物品将会消失.....",
         "",
@@ -84,7 +84,7 @@ public final class TEItems {
     );
     public static final SlimefunItemStack UNSTABLE_INGOT_4 = new SlimefunItemStack("UNSTABLEINGOT4",
         Material.NETHER_BRICK,
-        "&4Unstable Ingot 25%",
+        "&4不稳定的锭(25%)",
         "&9你将会死亡",
         "&9超过时间,物品将会消失.....",
         "",

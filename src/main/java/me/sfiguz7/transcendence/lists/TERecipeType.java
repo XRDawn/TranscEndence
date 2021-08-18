@@ -15,7 +15,7 @@ public class TERecipeType {
     );
     public static final RecipeType QUIRP_ANNIHILATOR = new RecipeType(new NamespacedKey(instance, "quirp_annihilator"),
         new CustomItem(Material.YELLOW_CONCRETE, "&9粒子冷凝机", "&a&o需要用粒子冷凝机来获得此物品" +
-            "Item")
+            "")
     );
     public static final RecipeType STABILIZER = new RecipeType(new NamespacedKey(instance, "stabilizer"),
         new CustomItem(Material.BLACK_CONCRETE, "&9稳定器", "&a&o需要用稳定器来获得此物品")
