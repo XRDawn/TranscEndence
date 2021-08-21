@@ -145,7 +145,7 @@ public final class TEItems {
     );
     public static final SlimefunItemStack STABLE_BLOCK = new SlimefunItemStack("STABLEBLOCK",
         Material.BRICKS,
-        "&c稳定的锭",
+        "&c稳定的锭块",
         "&9无价材料"
     );
     public static final SlimefunItemStack DAXI_STRENGTH = new SlimefunItemStack("DAXI_STRENGTH",
