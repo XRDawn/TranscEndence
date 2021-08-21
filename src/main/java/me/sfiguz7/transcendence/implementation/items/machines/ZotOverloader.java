@@ -153,7 +153,7 @@ public class ZotOverloader extends SimpleSlimefunItem<BlockTicker> implements TE
                         return;
                     }
 
-                    //Check if any item in input slots is allowed.
+                    //Check if any item in input slots is allowed
                     ItemStack[] input = new ItemStack[4];
                     int j = 0;
                     for (int i : getInputSlots()) {
